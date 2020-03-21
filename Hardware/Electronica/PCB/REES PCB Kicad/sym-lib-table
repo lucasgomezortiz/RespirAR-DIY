@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name REES-eagle-import)(type Legacy)(uri ${KIPRJMOD}/REES-eagle-import.lib)(options "")(descr ""))
+)
