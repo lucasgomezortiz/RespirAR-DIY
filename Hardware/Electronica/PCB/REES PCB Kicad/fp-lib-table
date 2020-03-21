@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name REES)(type KiCad)(uri "$(KIPRJMOD)/REES.pretty")(options "")(descr ""))
-)
