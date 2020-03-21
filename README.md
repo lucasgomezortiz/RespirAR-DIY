@@ -10,5 +10,6 @@ Thingiverse: https://www.thingiverse.com/thing:4232749
 # Cualquier duda, sugerencia o aporte
 Grupo de [facebook](https://www.facebook.com/groups/respiradormaker/) 
 Instagram [@rejuntamaker](https://www.instagram.com/rejuntamaker/) [@lucasgomezortiz](https://www.instagram.com/lucasgomezortiz/)
+### Este proyecto nace de [Reespirator](https://twitter.com/ReesistenciaT) 
 
 
