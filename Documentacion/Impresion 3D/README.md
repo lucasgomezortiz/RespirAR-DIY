@@ -21,9 +21,9 @@ Aclaracion, las velocidades que utilice fueron a 75/mms por lo tanto el tiempo p
 > Lineal Advance
 > Version de Cura 4.4.1
 
-# Acople OBSOLETO
-> * Altura de capa: 0.2
-> * Grosor de perimetro: 1mm
+# ~~Acople OBSOLETO~~
+> * ~~Altura de capa: 0.2~~
+> * ~~Grosor de perimetro: 1mm~~
 > * Cantidad de perimetros 3(Nozzle 0.5m) 4 * (Nozzle 0.4)
 > * Infil: 25%
 > * Patron: Lines
