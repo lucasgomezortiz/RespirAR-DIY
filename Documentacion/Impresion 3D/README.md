@@ -22,8 +22,8 @@ Aclaracion, las velocidades que utilice fueron a 75/mms por lo tanto el tiempo p
 > Version de Cura 4.4.1
 
 # ~~Acople OBSOLETO~~
-> * ~~Altura de capa: 0.2~~
-> * ~~Grosor de perimetro: 1mm~~
+> * Altura de capa: 0.2
+> * Grosor de perimetro: 1mm
 > * Cantidad de perimetros 3(Nozzle 0.5m) 4 * (Nozzle 0.4)
 > * Infil: 25%
 > * Patron: Lines
@@ -52,6 +52,11 @@ Aclaracion, las velocidades que utilice fueron a 75/mms por lo tanto el tiempo p
 > * Patron: Lines
 > * Ironing:Pattern ZigZag / Line Spacing 0.2
 >> * Total: 01:20hs
+
+###### Ender 3/PRO 
+> * Rotar 45°
+> * Ingresar cordenadas x 0.0119 Y 1.231
+
 
 # Leva v0.2
 > * Altura de capa: 0.35 (Nozzle 0.5)
