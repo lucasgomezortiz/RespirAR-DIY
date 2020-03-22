@@ -58,7 +58,7 @@ Aclaracion, las velocidades que utilice fueron a 75/mms por lo tanto el tiempo p
 > * Ingresar cordenadas x 0.0119 Y 1.231
 
 
-# Leva v0.2
+# Leva v0.3
 > * Altura de capa: 0.35 (Nozzle 0.5)
 > * Grosor de perimetro: 1mm
 > * Cantidad de perimetros: 
@@ -68,7 +68,7 @@ Aclaracion, las velocidades que utilice fueron a 75/mms por lo tanto el tiempo p
 > * Infil: 13%
 > * Patron: Lines
 > * Ironing:Pattern ZigZag / Line Spacing 0.2
->> * Total: 02:07hs
+>> * Total: ~~02:07hs~~ 01:40hs
 
 
 
