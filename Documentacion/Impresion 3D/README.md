@@ -70,6 +70,18 @@ Aclaracion, las velocidades que utilice fueron a 75/mms por lo tanto el tiempo p
 > * Ironing:Pattern ZigZag / Line Spacing 0.2
 >> * Total: ~~02:07hs~~ 01:40hs
 
+# Escuadras
+> * Altura de capa: 0.35 (Nozzle 0.5)
+> * Grosor de perimetro: 1mm
+> * Cantidad de perimetros: 
+> * Capas superiores e inferiores : 4 (1mm)
+> >* 3 (Nozzle 0.5m)
+> >* 4 (Nozzle 0.4m)
+> * Infil: Se remplaza por perimetros
+> * Patron: Lines
+> * Ironing:Pattern ZigZag / Line Spacing 0.2
+>> * Total: 00:57hs
+
 
 
 
